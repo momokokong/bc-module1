@@ -10,7 +10,7 @@ Horiseon's old page was out-dated with old html tag, lack of comments, redundant
 N/A 
 
 ## Usage:
-open https://momokokong.github.io/horiseon-refactor-module1 directlyu from a browser
+open https://momokokong.github.io/horiseon-refactor-module1 directly from a browser
 
 ## Contributing:
 Let me know if there any tips to improve the page for accessibility and sematic purposes
